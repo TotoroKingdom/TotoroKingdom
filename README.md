@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 这个人太懒了，以至于他什么也没有留下
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TotoroKingdom&layout=compact)" />
