@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 这个人太懒了，以至于他什么也没有留下
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TotoroKingdom&layout=compact)" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=KallkaGo&show_icons=true&theme=default" />
