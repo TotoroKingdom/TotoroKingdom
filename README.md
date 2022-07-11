@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **TotoroKingdom/totorokingdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 这个人太懒了，以至于他什么也没有留下
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TotoroKingdom&layout=compact)" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KallkaGo&show_icons=true&theme=default" />
