@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning English
 - 📫 How to reach me: totorokingdom@foxmail.com
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TotoroKingdom&layout=compact)" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=KallkaGo&show_icons=true&theme=default" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=TotoroKingdom&show_icons=true&theme=default" />
