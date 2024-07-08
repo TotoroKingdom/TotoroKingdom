@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Genshin Impact Lottery Project
 - 🌱 I’m currently learning English,SpringCloud
 - 📫 How to reach me: totorokingdom@foxmail.com
+
+[![genshin-image]][genshin-link]
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TotoroKingdom&layout=compact)" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=TotoroKingdom&show_icons=true&theme=default" />
 
