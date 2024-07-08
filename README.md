@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: totorokingdom@foxmail.com
 
 [![genshin-image]][genshin-link]
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TotoroKingdom&layout=compact)" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=TotoroKingdom&show_icons=true&theme=default" />
 
 [language]: https://github-readme-stats-kallkago.vercel.app/api/top-langs/?username=KallkaGo&hide=css,html,scss,less&theme=transparent&card_width=470&hide_border=true
